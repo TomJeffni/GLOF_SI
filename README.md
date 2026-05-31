@@ -1,2 +1,2 @@
 # GLOF_SI
-Supporting Information of the paper
+Supporting Information of paper
